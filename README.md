@@ -1,9 +1,9 @@
 ## reachy-mini
 
-#Run : 
+# Run : 
 reachy-mini-daemon
 
-#Download this repo
+# Download this repo
 
-#Install Voices : 
+# Install Voices : 
 pip install faster-whisper piper-tts scipy numpy
