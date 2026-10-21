@@ -1,4 +1,4 @@
-# reachy-mini
+# Reachy-mini
 
 ## Run : 
 reachy-mini-daemon
